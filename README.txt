@@ -47,4 +47,4 @@ lstm and lstm_1 makes the bidirectional rnn. Moreover this model was created
 using custom layers.
 
 ------------------------------------------------------------------------------
-Author : m.mahyar ali --- April 28,2020
+Author : m.mahyar ali 
