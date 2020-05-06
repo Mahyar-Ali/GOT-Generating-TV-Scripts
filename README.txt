@@ -1,6 +1,6 @@
 # GOT-Generating-TV-Scripts
 Generating scripts for the next season of any TV serial. Can also be used to
-generate Poetry,Novels,e.t.c.
+generate Poetry,Novels,Short Stories e.t.c.
 -----------------------------------------------------------------------------
 Versions:-
 1 - This version of the model was created in Tensorflow 1.x
